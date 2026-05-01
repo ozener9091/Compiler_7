@@ -363,6 +363,3 @@ end
 
 <img width="511" height="633" alt="изображение" src="https://github.com/user-attachments/assets/a1108c36-69c5-41f0-8629-b8ca4fd5596e" />
 
-
-
->>>>>>> main
