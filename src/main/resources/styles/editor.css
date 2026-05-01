@@ -1,0 +1,18 @@
+.keyword {
+    -fx-fill: blue;
+    -fx-font-weight: bold;
+}
+
+.string {
+    -fx-fill: green;
+}
+
+.code-area {
+    -fx-font-family: 'Monospaced';
+    -fx-font-size: 14px;
+}
+
+.highlight-yellow {
+    -fx-fill: #ff6600;
+    -fx-font-weight: bold;
+}
